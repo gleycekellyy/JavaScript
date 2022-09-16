@@ -1,0 +1,64 @@
+// [V] If/Else
+// [V] Operadores Lógicos
+// [V] Laçõs de repetição
+// [V] Array
+// [] Objetos
+// [] DOM
+// [] Orientação a Objetos
+// [] API
+
+// = -> Atribuição 
+// == -> igual 
+// != -> Diferente
+// < -> menor que
+// > -> maior que 
+// <= ou >= -> menor ou igual maior ou igual.
+// ++ encremento
+
+
+// Linguagem Fortemente Tipada -> Java, C#, Elixir, Go, C, C++ 
+// Linguagem Tipagem Fraca -> JavasScript, Python
+
+
+// IF else
+/*
+let a = 10;
+let b = 10;
+
+if (a == b){
+  console.log("igual");
+}else if(a != b){
+  console.log("receba");
+}else{
+  console.log("não é igual");
+}
+
+if(inputEmail.length() == null){
+  console.log("Escreva o email")
+}else{
+  campoDoBancoDeDados == inputEmail
+}
+*/
+
+
+Laçõs de repetição:
+
+// let quantidade = 5;
+// for( let i = 0; i < quantidade; i++){
+//     console.log("Eu sou o milior!")
+// }
+
+// o let i sempre vai começar recebendo o valo 0;
+// a quantidade que vai ser declarada dentro do () sempre vai receber o sinal de < para quantidade;
+// não esquecer do encremento;
+// pra imprimir na tela comando "console.log"
+
+
+//array - uma variável que armazena mais de uma informação.
+// não esquecer de por [];
+// sempre por  ' ', entre as palavras
+// console.log(variável[2]) -> para localizar uma determinada palavra dentro do array;
+
+
+//metodo length -> contagem de itens;
+// propriedade length serve para retornar a quantidade de itens que existe dentro da variável;
